@@ -1,5 +1,5 @@
 # Elasticsearch IP2Location Processor
-This is IP2Location filter plugin for Logstash that enables Logstash's users to add geolocation information such as country, region, district, city, latitude, longitude, ZIP code, time zone, Internet Service Provider (ISP), domain name, connection speed, IDD code, area code, weather station code, weather station name, mobile country code (MCC), mobile network code (MNC), mobile brand, elevation, usage type, address type, IAB category, ASN, AS domain, AS usage type and AS CIDR by IP address. The library reads the geolocation information from **IP2Location BIN data** file.
+This is IP2Location Processor for Elasticsearch Ingest Pipeline that enables Elasticsearch's users to get geolocation information such as country, region, district, city, latitude, longitude, ZIP code, time zone, Internet Service Provider (ISP), domain name, connection speed, IDD code, area code, weather station code, weather station name, mobile country code (MCC), mobile network code (MNC), mobile brand, elevation, usage type, address type, IAB category, ASN, AS domain, AS usage type and AS CIDR by IP address. The processor reads the geolocation information from **IP2Location BIN data** file.
 
 Supported IPv4 and IPv6 address.
 
