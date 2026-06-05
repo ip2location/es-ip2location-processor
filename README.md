@@ -3,7 +3,7 @@ This is IP2Location Processor for Elasticsearch Ingest Pipeline that enables Ela
 
 Supported IPv4 and IPv6 address.
 
-For deatiled usage of IP2Location Processor in Elasticsearch Ingest Pipeline, please take a look on this [tutorial](https://blog.ip2location.com/knowledge-base/enhance-elasticsearch-ingest-pipelines-with-the-ip2location-processor/).
+For detailed usage of IP2Location Processor in Elasticsearch Ingest Pipeline, please take a look on this [tutorial](https://blog.ip2location.com/knowledge-base/enhance-elasticsearch-ingest-pipelines-with-the-ip2location-processor/).
 
 
 ## Dependencies (IP2LOCATION BIN DATA FILE)
